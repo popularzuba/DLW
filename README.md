@@ -1,8 +1,8 @@
 # DLW
 
 ## Table of Contents:
-### 1)CV_clustering.ipynb 
-### 2)recommendation.py
+##### 1)CV_clustering.ipynb 
+##### 2)recommendation.py
 
 ### CV_clustering.ipynb
 The ipynb file contains the main Computer Vision Algorithm used by our application. A torch model is fited with an image which is sourced from a camera placed in every study space. The camera takes 4 pictures every 5 minutes.
